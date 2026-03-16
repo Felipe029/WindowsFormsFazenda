@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felip\\source\\repos\\WinFormsPIM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E65AD5C3-E92F-49C7-BA34-2F00211C63B7}|WinFormsPIM\\WinFormsPIM.csproj|c:\\users\\felip\\source\\repos\\winformspim\\winformspim\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65AD5C3-E92F-49C7-BA34-2F00211C63B7}|WinFormsPIM\\WinFormsPIM.csproj|solutionrelative:winformspim\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\felip\\source\\repos\\WinFormsPIM\\WinFormsPIM\\Login.cs",
+              "RelativeDocumentMoniker": "WinFormsPIM\\Login.cs",
+              "ToolTip": "C:\\Users\\felip\\source\\repos\\WinFormsPIM\\WinFormsPIM\\Login.cs [Design]",
+              "RelativeToolTip": "WinFormsPIM\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:22:09.469Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

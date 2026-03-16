@@ -1,0 +1,39 @@
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\bin\Debug\netstandard2.0\cldal.deps.json
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\bin\Debug\netstandard2.0\cldal.dll
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\bin\Debug\netstandard2.0\cldal.pdb
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\bin\Debug\netstandard2.0\clmodel.dll
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\bin\Debug\netstandard2.0\clmodel.pdb
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.csproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.csproj.Up2Date
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.dll
+C:\Users\Felipe\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.pdb
+C:\Users\felip\source\repos\WinFormsPIM\cldal\bin\Debug\netstandard2.0\cldal.deps.json
+C:\Users\felip\source\repos\WinFormsPIM\cldal\bin\Debug\netstandard2.0\cldal.dll
+C:\Users\felip\source\repos\WinFormsPIM\cldal\bin\Debug\netstandard2.0\cldal.pdb
+C:\Users\felip\source\repos\WinFormsPIM\cldal\bin\Debug\netstandard2.0\clmodel.dll
+C:\Users\felip\source\repos\WinFormsPIM\cldal\bin\Debug\netstandard2.0\clmodel.pdb
+C:\Users\felip\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.AssemblyInfo.cs
+C:\Users\felip\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.csproj.Up2Date
+C:\Users\felip\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.dll
+C:\Users\felip\source\repos\WinFormsPIM\cldal\obj\Debug\netstandard2.0\cldal.pdb
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\bin\Debug\netstandard2.0\cldal.deps.json
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\bin\Debug\netstandard2.0\cldal.dll
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\bin\Debug\netstandard2.0\cldal.pdb
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\bin\Debug\netstandard2.0\clmodel.dll
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\bin\Debug\netstandard2.0\clmodel.pdb
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\obj\Debug\netstandard2.0\cldal.csproj.AssemblyReference.cache
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\obj\Debug\netstandard2.0\cldal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\obj\Debug\netstandard2.0\cldal.AssemblyInfoInputs.cache
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\obj\Debug\netstandard2.0\cldal.AssemblyInfo.cs
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\obj\Debug\netstandard2.0\cldal.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\obj\Debug\netstandard2.0\cldal.csproj.Up2Date
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\obj\Debug\netstandard2.0\cldal.dll
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\cldal\obj\Debug\netstandard2.0\cldal.pdb

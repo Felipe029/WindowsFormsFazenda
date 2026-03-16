@@ -1,0 +1,30 @@
+C:\Users\Felipe\source\repos\WinFormsPIM\clmodel\bin\Debug\netstandard2.0\clmodel.deps.json
+C:\Users\Felipe\source\repos\WinFormsPIM\clmodel\bin\Debug\netstandard2.0\clmodel.dll
+C:\Users\Felipe\source\repos\WinFormsPIM\clmodel\bin\Debug\netstandard2.0\clmodel.pdb
+C:\Users\Felipe\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.csproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.dll
+C:\Users\Felipe\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.pdb
+C:\Users\felip\source\repos\WinFormsPIM\clmodel\bin\Debug\netstandard2.0\clmodel.deps.json
+C:\Users\felip\source\repos\WinFormsPIM\clmodel\bin\Debug\netstandard2.0\clmodel.dll
+C:\Users\felip\source\repos\WinFormsPIM\clmodel\bin\Debug\netstandard2.0\clmodel.pdb
+C:\Users\felip\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.AssemblyInfo.cs
+C:\Users\felip\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.dll
+C:\Users\felip\source\repos\WinFormsPIM\clmodel\obj\Debug\netstandard2.0\clmodel.pdb
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\clmodel\bin\Debug\netstandard2.0\clmodel.deps.json
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\clmodel\bin\Debug\netstandard2.0\clmodel.dll
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\clmodel\bin\Debug\netstandard2.0\clmodel.pdb
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\clmodel\obj\Debug\netstandard2.0\clmodel.csproj.AssemblyReference.cache
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\clmodel\obj\Debug\netstandard2.0\clmodel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\clmodel\obj\Debug\netstandard2.0\clmodel.AssemblyInfoInputs.cache
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\clmodel\obj\Debug\netstandard2.0\clmodel.AssemblyInfo.cs
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\clmodel\obj\Debug\netstandard2.0\clmodel.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\clmodel\obj\Debug\netstandard2.0\clmodel.dll
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\clmodel\obj\Debug\netstandard2.0\clmodel.pdb

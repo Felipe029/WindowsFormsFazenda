@@ -1,0 +1,27 @@
+C:\Users\Felipe\source\repos\WinFormsPIM\Info.DAL\bin\Debug\Info.DAL.exe.config
+C:\Users\Felipe\source\repos\WinFormsPIM\Info.DAL\bin\Debug\Info.DAL.exe
+C:\Users\Felipe\source\repos\WinFormsPIM\Info.DAL\bin\Debug\Info.DAL.pdb
+C:\Users\Felipe\source\repos\WinFormsPIM\Info.DAL\obj\Debug\Info.DAL.csproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\WinFormsPIM\Info.DAL\obj\Debug\Info.DAL.Properties.Resources.resources
+C:\Users\Felipe\source\repos\WinFormsPIM\Info.DAL\obj\Debug\Info.DAL.csproj.GenerateResource.cache
+C:\Users\Felipe\source\repos\WinFormsPIM\Info.DAL\obj\Debug\Info.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\WinFormsPIM\Info.DAL\obj\Debug\Info.DAL.exe
+C:\Users\Felipe\source\repos\WinFormsPIM\Info.DAL\obj\Debug\Info.DAL.pdb
+C:\Users\felip\source\repos\WinFormsPIM\Info.DAL\bin\Debug\Info.DAL.exe.config
+C:\Users\felip\source\repos\WinFormsPIM\Info.DAL\bin\Debug\Info.DAL.exe
+C:\Users\felip\source\repos\WinFormsPIM\Info.DAL\bin\Debug\Info.DAL.pdb
+C:\Users\felip\source\repos\WinFormsPIM\Info.DAL\obj\Debug\Info.DAL.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\WinFormsPIM\Info.DAL\obj\Debug\Info.DAL.Properties.Resources.resources
+C:\Users\felip\source\repos\WinFormsPIM\Info.DAL\obj\Debug\Info.DAL.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\WinFormsPIM\Info.DAL\obj\Debug\Info.DAL.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\WinFormsPIM\Info.DAL\obj\Debug\Info.DAL.exe
+C:\Users\felip\source\repos\WinFormsPIM\Info.DAL\obj\Debug\Info.DAL.pdb
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\Info.DAL\bin\Debug\Info.DAL.exe.config
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\Info.DAL\bin\Debug\Info.DAL.exe
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\Info.DAL\bin\Debug\Info.DAL.pdb
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\Info.DAL\obj\Debug\Info.DAL.csproj.AssemblyReference.cache
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\Info.DAL\obj\Debug\Info.DAL.Properties.Resources.resources
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\Info.DAL\obj\Debug\Info.DAL.csproj.GenerateResource.cache
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\Info.DAL\obj\Debug\Info.DAL.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\Info.DAL\obj\Debug\Info.DAL.exe
+C:\Users\felip\Downloads\Programaçâo\source\repos\WinForms FazendaUrbana\Info.DAL\obj\Debug\Info.DAL.pdb
