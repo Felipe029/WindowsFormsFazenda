@@ -1,0 +1,44 @@
+CREATE DATABASE FazendaUrbana;
+
+CREATE TABLE Categoria 
+(
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Categoria VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Clientes 
+(
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nome VARCHAR(150) NOT NULL,
+    Telefone VARCHAR(11),
+    Endereco VARCHAR(255)
+);
+
+CREATE TABLE Fornecedor 
+(
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    RazaoSocial VARCHAR(150) NOT NULL,
+    CNPJ VARCHAR(18),
+    Contato VARCHAR(100),
+    Endereco VARCHAR(255)
+);
+
+CREATE TABLE Produtos 
+(
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nome VARCHAR(150) NOT NULL,
+    Preco DECIMAL(10,2) NOT NULL,
+    CategoriaId INT,
+    Descricao VARCHAR(255),
+
+    CONSTRAINT FK_Produtos_Categoria
+    FOREIGN KEY (CategoriaId) REFERENCES Categoria(Id)
+);
+
+CREATE TABLE Usuario 
+(
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Username VARCHAR(50) NOT NULL UNIQUE,
+    Password VARCHAR(100) NOT NULL,
+    EhFuncionario BIT NOT NULL
+);
